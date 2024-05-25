@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nikhilkarnati9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nikhilkarnati9" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nikhil karnati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil karnati" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/nikhil-karnati-8b5336227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil karnati" height="30" width="40" /></a>
 <a href="https://fb.com/nikhil karnati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nikhil karnati" height="30" width="40" /></a>
 <a href="https://instagram.com/btw_its_nikhil_karnati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="btw_its_nikhil_karnati" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/nikhilkarnati981" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nikhilkarnati981" height="30" width="40" /></a>
